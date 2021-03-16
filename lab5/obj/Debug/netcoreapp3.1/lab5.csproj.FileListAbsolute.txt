@@ -1,0 +1,13 @@
+E:\KPI\NET\labs\dotnet_lab5\lab5\bin\Debug\netcoreapp3.1\lab5.exe
+E:\KPI\NET\labs\dotnet_lab5\lab5\bin\Debug\netcoreapp3.1\lab5.deps.json
+E:\KPI\NET\labs\dotnet_lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.json
+E:\KPI\NET\labs\dotnet_lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.dev.json
+E:\KPI\NET\labs\dotnet_lab5\lab5\bin\Debug\netcoreapp3.1\lab5.dll
+E:\KPI\NET\labs\dotnet_lab5\lab5\bin\Debug\netcoreapp3.1\lab5.pdb
+E:\KPI\NET\labs\dotnet_lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csprojAssemblyReference.cache
+E:\KPI\NET\labs\dotnet_lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfoInputs.cache
+E:\KPI\NET\labs\dotnet_lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfo.cs
+E:\KPI\NET\labs\dotnet_lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.CoreCompileInputs.cache
+E:\KPI\NET\labs\dotnet_lab5\lab5\obj\Debug\netcoreapp3.1\lab5.dll
+E:\KPI\NET\labs\dotnet_lab5\lab5\obj\Debug\netcoreapp3.1\lab5.pdb
+E:\KPI\NET\labs\dotnet_lab5\lab5\obj\Debug\netcoreapp3.1\lab5.genruntimeconfig.cache
